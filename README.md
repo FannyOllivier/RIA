@@ -6,4 +6,4 @@ Le script proposé permet de mettre en évidence de façon graphique les relatio
 
 Une analyse de cluster permet de visualiser les différentes chaînes d'implication.  
 
-| Exemple de visualisation |  ![much-smaller image](exemple.pdf)
+| Exemple de visualisation |  ![much-smaller image](exemple.png)
